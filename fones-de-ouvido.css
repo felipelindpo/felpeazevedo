@@ -1,0 +1,22 @@
+/* fones-de-ouvido.css */
+
+body {
+    background-color: #e0f7fa; /* Azul claro para a categoria de fones de ouvido */
+}
+
+h1 {
+    color: #006064; /* Cor escura para o título */
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #00796b; /* Um tom verde para subtítulos */
+}
